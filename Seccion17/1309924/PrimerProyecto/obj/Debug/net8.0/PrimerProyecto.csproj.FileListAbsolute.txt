@@ -1,0 +1,14 @@
+C:\Users\theic\Documents\PrimerSemestre\PensamientoComputacional\Seccion17\1309924\PrimerProyecto\bin\Debug\net8.0\PrimerProyecto.exe
+C:\Users\theic\Documents\PrimerSemestre\PensamientoComputacional\Seccion17\1309924\PrimerProyecto\bin\Debug\net8.0\PrimerProyecto.deps.json
+C:\Users\theic\Documents\PrimerSemestre\PensamientoComputacional\Seccion17\1309924\PrimerProyecto\bin\Debug\net8.0\PrimerProyecto.runtimeconfig.json
+C:\Users\theic\Documents\PrimerSemestre\PensamientoComputacional\Seccion17\1309924\PrimerProyecto\bin\Debug\net8.0\PrimerProyecto.dll
+C:\Users\theic\Documents\PrimerSemestre\PensamientoComputacional\Seccion17\1309924\PrimerProyecto\bin\Debug\net8.0\PrimerProyecto.pdb
+C:\Users\theic\Documents\PrimerSemestre\PensamientoComputacional\Seccion17\1309924\PrimerProyecto\obj\Debug\net8.0\PrimerProyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theic\Documents\PrimerSemestre\PensamientoComputacional\Seccion17\1309924\PrimerProyecto\obj\Debug\net8.0\PrimerProyecto.AssemblyInfoInputs.cache
+C:\Users\theic\Documents\PrimerSemestre\PensamientoComputacional\Seccion17\1309924\PrimerProyecto\obj\Debug\net8.0\PrimerProyecto.AssemblyInfo.cs
+C:\Users\theic\Documents\PrimerSemestre\PensamientoComputacional\Seccion17\1309924\PrimerProyecto\obj\Debug\net8.0\PrimerProyecto.csproj.CoreCompileInputs.cache
+C:\Users\theic\Documents\PrimerSemestre\PensamientoComputacional\Seccion17\1309924\PrimerProyecto\obj\Debug\net8.0\PrimerProyecto.dll
+C:\Users\theic\Documents\PrimerSemestre\PensamientoComputacional\Seccion17\1309924\PrimerProyecto\obj\Debug\net8.0\refint\PrimerProyecto.dll
+C:\Users\theic\Documents\PrimerSemestre\PensamientoComputacional\Seccion17\1309924\PrimerProyecto\obj\Debug\net8.0\PrimerProyecto.pdb
+C:\Users\theic\Documents\PrimerSemestre\PensamientoComputacional\Seccion17\1309924\PrimerProyecto\obj\Debug\net8.0\PrimerProyecto.genruntimeconfig.cache
+C:\Users\theic\Documents\PrimerSemestre\PensamientoComputacional\Seccion17\1309924\PrimerProyecto\obj\Debug\net8.0\ref\PrimerProyecto.dll
