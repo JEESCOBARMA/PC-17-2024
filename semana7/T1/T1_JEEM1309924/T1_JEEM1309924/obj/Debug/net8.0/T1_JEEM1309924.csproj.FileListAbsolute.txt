@@ -1,0 +1,14 @@
+C:\Users\theic\OneDrive\Escritorio\T1_JEEM1309924\T1_JEEM1309924\bin\Debug\net8.0\T1_JEEM1309924.exe
+C:\Users\theic\OneDrive\Escritorio\T1_JEEM1309924\T1_JEEM1309924\bin\Debug\net8.0\T1_JEEM1309924.deps.json
+C:\Users\theic\OneDrive\Escritorio\T1_JEEM1309924\T1_JEEM1309924\bin\Debug\net8.0\T1_JEEM1309924.runtimeconfig.json
+C:\Users\theic\OneDrive\Escritorio\T1_JEEM1309924\T1_JEEM1309924\bin\Debug\net8.0\T1_JEEM1309924.dll
+C:\Users\theic\OneDrive\Escritorio\T1_JEEM1309924\T1_JEEM1309924\bin\Debug\net8.0\T1_JEEM1309924.pdb
+C:\Users\theic\OneDrive\Escritorio\T1_JEEM1309924\T1_JEEM1309924\obj\Debug\net8.0\T1_JEEM1309924.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theic\OneDrive\Escritorio\T1_JEEM1309924\T1_JEEM1309924\obj\Debug\net8.0\T1_JEEM1309924.AssemblyInfoInputs.cache
+C:\Users\theic\OneDrive\Escritorio\T1_JEEM1309924\T1_JEEM1309924\obj\Debug\net8.0\T1_JEEM1309924.AssemblyInfo.cs
+C:\Users\theic\OneDrive\Escritorio\T1_JEEM1309924\T1_JEEM1309924\obj\Debug\net8.0\T1_JEEM1309924.csproj.CoreCompileInputs.cache
+C:\Users\theic\OneDrive\Escritorio\T1_JEEM1309924\T1_JEEM1309924\obj\Debug\net8.0\T1_JEEM1309924.dll
+C:\Users\theic\OneDrive\Escritorio\T1_JEEM1309924\T1_JEEM1309924\obj\Debug\net8.0\refint\T1_JEEM1309924.dll
+C:\Users\theic\OneDrive\Escritorio\T1_JEEM1309924\T1_JEEM1309924\obj\Debug\net8.0\T1_JEEM1309924.pdb
+C:\Users\theic\OneDrive\Escritorio\T1_JEEM1309924\T1_JEEM1309924\obj\Debug\net8.0\T1_JEEM1309924.genruntimeconfig.cache
+C:\Users\theic\OneDrive\Escritorio\T1_JEEM1309924\T1_JEEM1309924\obj\Debug\net8.0\ref\T1_JEEM1309924.dll
